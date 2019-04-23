@@ -1,0 +1,9 @@
+{
+  "extensions": [
+    "mongoose",
+    "mocha"
+  ],
+  "logger": {
+    "level": "silly"
+  }
+}
